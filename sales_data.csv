@@ -1,0 +1,21 @@
+date,region,category,product,units_sold,unit_price
+2026-01-03,North,Electronics,Wireless Mouse,12,25
+2026-01-05,South,Office,Notebook,35,6
+2026-01-08,East,Electronics,Keyboard,9,45
+2026-01-12,West,Furniture,Office Chair,4,120
+2026-01-15,North,Office,Pen Set,28,8
+2026-01-18,South,Electronics,Headphones,15,35
+2026-01-22,East,Furniture,Desk Lamp,10,32
+2026-01-25,West,Office,Notebook,42,6
+2026-02-02,North,Electronics,Wireless Mouse,18,25
+2026-02-06,South,Furniture,Office Chair,6,120
+2026-02-10,East,Office,Pen Set,31,8
+2026-02-14,West,Electronics,Keyboard,11,45
+2026-02-18,North,Furniture,Desk Lamp,14,32
+2026-02-21,South,Office,Notebook,38,6
+2026-02-25,East,Electronics,Headphones,17,35
+2026-03-01,West,Furniture,Office Chair,5,120
+2026-03-05,North,Office,Pen Set,34,8
+2026-03-09,South,Electronics,Wireless Mouse,21,25
+2026-03-13,East,Furniture,Desk Lamp,13,32
+2026-03-17,West,Office,Notebook,45,6
